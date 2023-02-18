@@ -678,6 +678,7 @@ Rishabh Pandey
 - [Khushboo Jain @ DevSoc]
 - Khadija Kamran
 - [Seb Fox]
+- [Emily Marie Ahtunan](https://github.com/emmarie-ahtunan)
 - [swapnil Dekate](https://github.com/smdekate)
 - [Akash ks](https://https://github.com/Akashzxr)
 - [Grishma Raj Khanal](https://github.com/grishmakhanal)
